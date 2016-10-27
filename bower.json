@@ -1,20 +1,19 @@
 {
   "name": "angular-isloading",
-  "description": "AngularJS directive that provide `a boolean value` to know $http hasn&#39;t had a response or not.",
+  "description": "animate.css-test example",
   "main": [
-    "dist/js/angular-isloading.js"
+    "dist/app/index.html"
   ],
   "authors": [
-    "afei"
+    "smalleast"
   ],
   "license": "MIT",
   "keywords": [
     "loading",
     "angular",
-    "isloading",
     "$http"
   ],
-  "homepage": "https://github.com/afeiship/angular-isloading",
+  "homepage": "https://github.com/smalleast/animate.css-test",
   "moduleType": [
     "amd"
   ],
