@@ -21,11 +21,11 @@ gulp.task('clean', function () {
 });
 gulp.task('styles', function () {
   return gulp.src('bower_components/animate.css/**.css')
-    .pipe(gulp.dest('dist/css'));
+    .pipe(gulp.dest('src/css'));
 });
 
 gulp.task('htmls', function() {
-  return gulp.src(['src/**/*.html'])
+  return gulp.src(['src/**/*.html','src/**/*.css'])
     .pipe($.fileInclude({
       prefix: '@@',
       basepath: '@file'
