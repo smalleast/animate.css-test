@@ -1,5 +1,5 @@
 {
-  "name": "angular-isloading",
+  "name": "animate.css-test",
   "description": "animate.css-test example",
   "main": [
     "dist/app/index.html"
@@ -9,9 +9,8 @@
   ],
   "license": "MIT",
   "keywords": [
-    "loading",
-    "angular",
-    "$http"
+    "animate",
+    "css"
   ],
   "homepage": "https://github.com/smalleast/animate.css-test",
   "moduleType": [
@@ -26,7 +25,6 @@
     "src"
   ],
   "dependencies": {
-    "angular": "^1.5.5",
     "animate.css": "~3.4.0"
   }
 }
