@@ -12,12 +12,12 @@
 To install via Bower, simply do the following:
 
 ```bash
-$ bower install animate.css --save
+$ bower install animate.css-test --save
 ```
 or you can install via npm:
 
 ```bash
-$ npm install animate.css --save
+$ npm install animate.css-test --save
 ```
 
 ##Basic Usage
